@@ -45,9 +45,9 @@ visustin v7.10 [link](<http://www.aivosto.com/visustin.html>)
 
 ### b. Cách sử dụng:
 
--   Cài đặt visustin v7.10 rồi chạy
+-   Cài đặt visustin v7.10
 
--   coppy code của hàm trên vào vùng code của phần mềm rồi nhấn Draw
+-   coppy code của chương trình trên vào vùng code của phần mềm, nhấn Draw
 
 -   đồ thị tương ứng hiện ra ở cùng bên phải
 
