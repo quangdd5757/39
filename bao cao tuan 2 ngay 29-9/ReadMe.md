@@ -11,7 +11,7 @@
 2. Kết quả bài làm:
 -------------
 
->   tính tổng trị tuyệt đối của 2 số bất kì
+>   tính tổng trị tuyệt đối của 2 số nhập từ bàn phím.
 
 #### a. Mã chương trình
 ```js
