@@ -9,5 +9,6 @@ Nhóm số 39:
 - Đỗ Hoàng Phúc
 - Lê Văn Nguyên
 
-- 1, báo cáo tool kiểm thử hộp trắng - PEX
-- 2, báo cáo tool kiểm thử luồng điều khiển - Visustin v7.10
+1, báo cáo tool kiểm thử hộp trắng - PEX
+
+2, báo cáo tool kiểm thử luồng điều khiển - Visustin v7.10
