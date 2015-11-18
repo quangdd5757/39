@@ -14,3 +14,5 @@ Nhóm số 39:
 2, báo cáo tool kiểm thử luồng điều khiển - Visustin v7.10
 
 3, issus code ( bài toán kiểm tra số nguyên tố - C++, bài toán Password - java)
+
+4, Slide kiểm thử tĩnh
