@@ -163,8 +163,8 @@ Kiểm soát kiểm thử (Test control) liên quan tới các hoạt động c�
 ####3.2	Phân tích và thiết kế kiểm thử.
 Đây là hoạt động xuyên suốt mà những đối tượng kiểm thử thông thường được chuyển đổi đến những điều kiện và các trường hợp kiểm thử rõ rệt.
 
-		Hoạt động phân tích và thiết kế kiểm thử có những nhiệm vụ sau:
-		
+Hoạt động phân tích và thiết kế kiểm thử có những nhiệm vụ sau:
+	
 •	Review kiểm thử cơ bản (như các yêu cầu, các mức độ rủi ro, báo cáo phân tích rủi ro, kiến trúc, thiết kế, đặc tả giao diện)
 
 •	Đánh giá mức độ khả dụng của kiểm thử cơ bản và các đối tượng kiểm thử.
@@ -181,7 +181,7 @@ Kiểm soát kiểm thử (Test control) liên quan tới các hoạt động c�
 
 Đây là hoạt động mà những kịch bản hoặc các thủ tục kiểm thử được đặc tả bởi dự kết hợp các trường hợp kiểm thử theo thứ tự riêng và bao gồm bất cứ thông tin cần thiết nào cho việc thực thi test, môi trường được thiết lập và việc kiểm thử được chạy.
 
-	Việc thực thi kiểm thử bao gồm những nhiệm vụ như dưới đây:
+Việc thực thi kiểm thử bao gồm những nhiệm vụ như dưới đây:
 	
 •	Hoàn thiện, thực thi và phân thứ tự ưu tiên các trường hợp kiểm thử (bao gồm cả test data)
 
