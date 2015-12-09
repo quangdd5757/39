@@ -1,3 +1,4 @@
+﻿(link báo cáo: https://onedrive.live.com/redir?resid=B844D2C243CCF096!12328&authkey=!AP1glom2IJ_NO_w&ithint=folder%2cmd )
 ﻿
 1. Group 39 gồm các thành viên:
 ----------------------------
