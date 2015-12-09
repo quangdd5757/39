@@ -1,4 +1,5 @@
 ﻿##NGUYÊN TẮC CƠ BẢN CỦA KIỂM THỬ
+﻿(link dowload tài liệu: https://onedrive.live.com/redir?resid=B844D2C243CCF096!12343&authkey=!AJdhlEbwJk9RYL0&ithint=folder%2cdocx)
 ###1.	Tại sao kiểm thử là cần thiết.
 ####1.1	Giới thiệu.
 Trong tài liệu này chúng ta sẽ đi tìm hiểu tại sao kiểm thử lại cần thiết bằng cách đi mô tả và minh họa làm thế nào mà những lỗi phần mềm ảnh hưởng đến con người. Chúng ta cũng sẽ đi giải thích tại sao kiểm thử là cần thiết. Làm thế nào để kiểm thử một phần mềm, cách kiểm thử để đảm bảo chất lượng của phần mềm và một số nguyên tắc cơ bản của kiểm thử.
