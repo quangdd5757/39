@@ -63,7 +63,7 @@ Việc kiểm thử và sửa lỗi phần mềm có thể thực hiện trong b
 
 Theo tài liệu của Boehm, chi phí cho việc tìm và sửa lỗi phần mềm sẽ tăng theo hàm mũ trong biểu đồ sau:
 
- (không đưa hình lên đây được :facetroll:)
+![image](https://raw.githubusercontent.com/quangdd5757/39/master/ISTQB1%20update/Untitled.png)
  
 ####1.6	Vai trò của kiểm thử trong phát triển, bảo trì và hoạt động của phần mềm.
 
