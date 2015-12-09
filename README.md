@@ -11,7 +11,7 @@ Nhóm số 39:
 
 1, "báo cáo tool kiểm thử hộp trắng - PEX" trong folder Code-based test generation(PEX)
 
-2, báo cáo tool kiểm thử luồng điều khiển - Visustin v7.10
+2, "báo cáo tool kiểm thử luồng điều khiển - Visustin v7.10" trong folder Bao cao cong cu kiem thu Visustin v7.10
 
 3, issus code ( bài toán kiểm tra số nguyên tố - C++, bài toán Password - java)
 
