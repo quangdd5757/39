@@ -8,7 +8,7 @@ Nhóm 9||
 Nhóm 12||
 Nhóm 23||
 Nhóm 28||
-Nhóm 35||
+Nhóm 35|1. Bài tập hoàn thành đủ 2. Các thành viên có tham gia làm bài tập 3.Phần làm tài liệu trên wiki chưa được tốt còn nhiều gạch đầu dòng, cách trình bày không được đẹp| điểm 1
 Nhóm 39||
 Nhóm 42||
 Nhóm 50||
