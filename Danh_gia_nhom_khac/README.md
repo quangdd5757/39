@@ -4,7 +4,7 @@ Nhóm|Đánh giá|Cho điểm
 ----|----|-----
 (ví dụ: nhóm 1)|1.đủ số lượng báo cáo 2.giao diện: font chữ báo cáo dịch tài liệu lỗi... 3.nội dung: bài lập kế hoạch chưa có tổng hợp kết quả|điểm 2
 Nhóm 1|1.Còn thiếu bài reviwer code. 2. phần issues của bài kiêm thử sachmem để không đúng chỗ 3.Báo cáo kiểm thử trên wiki font chưa được đẹp và chưa có tính khoa học trong sắp xếp. | điểm 2
-Nhóm 9|1.Bài tập đầy đủ. 2.vị trí đặt file code review ko rõ ràng lắm, đưa ra issue nhưng ko có ai phản hồi, đề mục thể hiện không rõ ràng trong file .md 3. nội dung ổn| điểm 2
+Nhóm 9|1.Bài tập đầy đủ. 2.vị trí đặt file code review ko rõ ràng lắm, đưa ra issue nhưng ko có ai phản hồi, đề mục thể hiện không rõ ràng trong file .md 3. nội dung ổn| điểm 3
 Nhóm 12||
 Nhóm 23|1. Bài tập chưa hoàn thành đủ 2. Các thành viên có tham gia làm bài tập 3. chưa thấy có báo cáo kiểm thử trên wiki | điểm 3
 Nhóm 28|1.Báo cáo lab03-Công cụ kiểm thử Evosuite chưa up code demo 2.repo sắp xếp các file tên chưa rõ ràng chú thích khó hiểu.| điểm 2
