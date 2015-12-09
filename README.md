@@ -15,8 +15,8 @@ Nhóm số 39:
 
 3, issus code ( bài toán kiểm tra số nguyên tố - C++, bài toán Password - java)
 
-4, Slide kiểm thử tĩnh
+4, "ký thuật review code - inspection" trong folder Ky_thuat_review_code
 
-5, kỹ thuật inspection
+5, "báo cáo lập kế hoạch kiểm thứ website demo.sachmem.com "
 
 6, tài liệu ISTQB1
