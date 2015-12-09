@@ -353,13 +353,13 @@ Các tiêu chí có thể xếp hạng :
 
 Cũng nên lưu ý việc định nghĩa mức độ nghiêm trọng phụ thuộc vào sản phẩm khác nhau, mang tính tham khảo và tương đối.
 
-      Việc xác định được độ nghiêm trọng của con bug giúp nhà quản lí dự án, chủ sản phẩm có cái nhìn tốt hơn và thuận lợi hơn về tình hình chất lượng của sản phẩm. Số lượng bug là chưa đủ để đánh giá tình hình. Việc đội kiểm thử tìm được 50 con bug trong 1 tháng cũng không nói lên nhiều về tình hình chất lượng của sản phẩm. Tuy nhiên, nếu biết được trong 50 con bug đó có đến hơn 1 nửa là bug với độ nghiêm trọng ở cấp độ 1 và 2 sẽ hữu ích hơn nhiều. Ngoài ra, với góc độ của kỹ sư kiểm thử, độ nghiêm trọng cũng giúp “quảng cáo” cho con bug của mình từ đó sẽ gây được sự chú ý của mọi người và tăng cơ hội con bug đó được sửa.
+Việc xác định được độ nghiêm trọng của con bug giúp nhà quản lí dự án, chủ sản phẩm có cái nhìn tốt hơn và thuận lợi hơn về tình hình chất lượng của sản phẩm. Số lượng bug là chưa đủ để đánh giá tình hình. Việc đội kiểm thử tìm được 50 con bug trong 1 tháng cũng không nói lên nhiều về tình hình chất lượng của sản phẩm. Tuy nhiên, nếu biết được trong 50 con bug đó có đến hơn 1 nửa là bug với độ nghiêm trọng ở cấp độ 1 và 2 sẽ hữu ích hơn nhiều. Ngoài ra, với góc độ của kỹ sư kiểm thử, độ nghiêm trọng cũng giúp “quảng cáo” cho con bug của mình từ đó sẽ gây được sự chú ý của mọi người và tăng cơ hội con bug đó được sửa.
       
 Có một thực tế không lấy gì vui vẻ là việc xác định độ nghiêm trọng của con bug không hẳn lúc nào cũng mang tính chất trắng-đen và tuyệt đối. Sẽ không có gì ngạc nhiên nếu chúng ta cho rằng vấn đề này là nghiêm trọng trong khi chủ sản phẩm, nhà quản lý dự án lại không nghĩ như vậy. Không hẳn là họ đang cố tình “dìm hàng” chúng ta mà cũng có thể cách chúng ta cung cấp thông tin không thể hiện được đầy đủ mức độ nghiêm trọng của vấn đề. Hãy phân tích và cung cấp thêm thông tin để cho thấy tác động nghiêm trọng của con bug đối với sản phẩm cũng như người dùng cuối như thế nào như xảy ra trên nhiều môi trường; lặp đi lặp lại; có khả năng ảnh hưởng đến các thành phần, chức năng khác; hình ảnh thương mại của công ty v.v. Và dĩ nhiên, nếu vấn đề không thực sự nghiêm trọng, chúng ta cũng không có lí do gì để làm cho lớn chuyện. Việc hiểu rõ sản phẩm, người dùng cùng khả năng phân tích, suy luận sẽ giúp chúng ta làm tốt khâu này.
 
 Độ ưu tiên
 
-       Như chúng ta đã biết nếu đã là bug thì sẽ phải sửa. Tuy nhiên, có một thực tế là đội phát triển khó có thể sửa hết tất cả bug một lượt cũng như không đáng để sửa hết tất cả các bug. Do đó, đội phát triển sẽ phải cần đến độ ưu tiên của con bug để biết được bug nào cần được sửa trước bug nào sau. Độ ưu tiên của con bug cũng thường được chia thành 3-4 cấp độ:
+Như chúng ta đã biết nếu đã là bug thì sẽ phải sửa. Tuy nhiên, có một thực tế là đội phát triển khó có thể sửa hết tất cả bug một lượt cũng như không đáng để sửa hết tất cả các bug. Do đó, đội phát triển sẽ phải cần đến độ ưu tiên của con bug để biết được bug nào cần được sửa trước bug nào sau. Độ ưu tiên của con bug cũng thường được chia thành 3-4 cấp độ:
        
 •	Mức độ 1: Cao – Bug sẽ phải sửa ngay lập tức
 
