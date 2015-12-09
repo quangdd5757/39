@@ -1,6 +1,6 @@
-# Nhóm 39
-# Teamwork
-# Báo cáo và bài tập nhóm
+## Nhóm 39
+## Teamwork
+## Báo cáo và bài tập nhóm
 
 Nhóm số 39:
 - Đỗ Đức Quang
