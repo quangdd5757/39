@@ -16,3 +16,7 @@ Nhóm số 39:
 3, issus code ( bài toán kiểm tra số nguyên tố - C++, bài toán Password - java)
 
 4, Slide kiểm thử tĩnh
+
+5, kỹ thuật inspection
+
+6, tài liệu ISTQB1
