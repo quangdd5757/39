@@ -1,5 +1,5 @@
 ###Đánh giá Git Hub các nhóm:
-
+- điểm từ cao xuống thấp theo thứ tự 1, 2, 3
 Nhóm|Đánh giá|Cho điểm
 ----|----|-----
 (ví dụ: nhóm 1)|1.đủ số lượng báo cáo 2.giao diện: font chữ báo cáo dịch tài liệu lỗi... 3.nội dung: bài lập kế hoạch chưa có tổng hợp kết quả|điểm 2
